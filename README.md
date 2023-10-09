@@ -6,4 +6,4 @@ This is another change
 
 Another change
 
-https://megrose8.github.io/reading-notes/
+[Github Profile](https://github.com/megrose8)
