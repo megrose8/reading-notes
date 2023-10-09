@@ -5,6 +5,7 @@ My name is Meg and I live in Portand, Oregon, but I grew up in Eastern Washingto
 I've dipped my toes into various fields including working as a project manager for a marketing consultancy, co-founding a interdisplinary humanities lab, and now- teaching! I've ended up in a coding bootcamp with the intention of eventually teaching young adults coding to provide them with marketable skills as the enter the workplace. Outside of work, I am a dog mom, nap enthusiast, and lover of brunch.
 
 ![smaller](https://github.com/megrose8/reading-notes/assets/142434435/e9a4f956-8797-4aae-8f54-48168d499a83)
+![thumbnail_IMG_7569 small](https://github.com/megrose8/reading-notes/assets/142434435/c2eb864d-4f38-48ac-a910-d1e486681fea)
 
 
 ## Growth Mindset
@@ -17,8 +18,8 @@ A growth mindset resists the temptation to give up when things are hard, and ins
 <img align="center">![an artists rendering on the concept of growth mindset with a face smiling and plants growing out of the head.](https://s39613.pcdn.co/wp-content/uploads/2022/06/creativity-personal-development-individual-growth-concept-vector-id1341427506.jpg)
 
 *For When Things Get Hard Remember:*
-- No Rain, No Flowers
-- Failure Is An Opportunity for Growth
+- No rain, no flowers
+- Failure is An opportunity for growth
 - I am inspired by the success of others
 
 
