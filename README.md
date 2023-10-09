@@ -2,7 +2,7 @@
 
 ## About Me
 My name is Meg and I live in Portand, Oregon, but I grew up in Eastern Washington. I'm a recent college graduate and work for a non-profit teaching various computer classes to members of the community. 
-I've dipped my toes into various fields including working as a project manager for a marketing consultancy, co-founding a interdisplinary humanities lab, and now- teaching! I've ended up in a coding bootcamp with the intention of eventually teaching young adults coding to provide them with a marketable skill as the enter the workplace. Outside of work, I am a dog mom, nap enthusiast, and lover of brunch.
+I've dipped my toes into various fields including working as a project manager for a marketing consultancy, co-founding a interdisplinary humanities lab, and now- teaching! I've ended up in a coding bootcamp with the intention of eventually teaching young adults coding to provide them with marketable skills as the enter the workplace. Outside of work, I am a dog mom, nap enthusiast, and lover of brunch.
 
 ![smaller](https://github.com/megrose8/reading-notes/assets/142434435/e9a4f956-8797-4aae-8f54-48168d499a83)
 
