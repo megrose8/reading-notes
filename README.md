@@ -8,4 +8,4 @@ Another change
 
 [Github Profile](https://github.com/megrose8)
 
-`#FFC0CB`
+The background color is `#FFC0CB` for light mode and `#000000` for dark mode.
