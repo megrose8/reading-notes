@@ -35,7 +35,6 @@ A growth mindset resists the temptation to give up when things are hard, and ins
 [Liturgy in the Shadow of Trauma](https://www.mdpi.com/2077-1444/13/7/583)
 
 ## Class Notes: 
-# Class 2 Reading Notes
 
 ## Markdown
 
