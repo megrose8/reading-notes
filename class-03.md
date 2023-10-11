@@ -10,7 +10,8 @@
     + 'git clone https:// INSERT LINK'
 
 **Quick Guide to Git Flow**
-[Alt Text: Diagram of Git Clone and Git Flow](GITFLOW.png)
+[Alt Text: Diagram of Git Clone and Git Flow](GITFLOW2.jpg)
+
 
 
 
