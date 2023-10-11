@@ -1,4 +1,20 @@
-# Class 1 Reading Notes
+# Class 1 Notes
+
+## Growth Mindset
+
+*Thinking About the Growth Mindset*
+
+For me, having a growth mindset means to have confidence in oneself alongside the ability to recognize, without judgement, one's strengths, and a willingness to engage with potential spaces for improvement.
+A growth mindset resists the temptation to give up when things are hard, and instead encourages the radical act of self love, and the continual need for growth without judgement.
+
+<img align="center">![an artists rendering on the concept of growth mindset with a face smiling and plants growing out of the head.](https://s39613.pcdn.co/wp-content/uploads/2022/06/creativity-personal-development-individual-growth-concept-vector-id1341427506.jpg)
+
+*For When Things Get Hard Remember:*
+- No rain, no flowers
+- Failure is An opportunity for growth
+- I am inspired by the success of others
+
+
 
 ## What is It?
 *Markdown is a coding language that utilizes a simpler syntax to emphasize ease of readibility within code.*
