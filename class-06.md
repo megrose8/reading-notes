@@ -54,10 +54,29 @@ Embed or include:
 `}`
 `</script>`
 
-+ Variables are Containers for Storing Data, it can be declared four ways:
++ Variables are Containers for Storing Data, they can be declared four ways:
     + Automically
     + Using `var`
     + Using `let`
     + Using `const`
++ Declaring a variable: Declaring a variable is done with either the `var`, `const` or `let` key. Declaring a variable means to create a storage location to hold a given value.
+    + `Var` function scoped, available within the functioned they are declared in.
+    + `let` Confined to the block of {} in which its declared
+    + `const` is used to declare a constant variable whose values cannot be changed.  
+
+*Examples*  
+`let` age = 30 (Declared the age with the value of 30)  
+`const` pi = 3.14159 (Declaring and initializing pi as a constant value)  
+`var` name = "John" Initializing value of name.
+
+**Operators** Operators are special symbols or keywords used to perform operations on values or variables. Operators are used to manipulate and combine data.   
++ Assignment Operators: Assign a value to a variable. Denoted by the `=`   
+    + Example: `let x = 10` The = Operator assigns the value 10 to the variable x.
+
+**Data from a User** Typically information from a user is referred to as user input or user data. This can be collected through various methods:   
++ Prompt:  `let userName = prompt ("Please enter your name:")`  
+    + This will display a dialog box to the user allowing them to enter a response. 
+
+
 
 
