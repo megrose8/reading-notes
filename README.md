@@ -18,16 +18,39 @@ I've dipped my toes into various fields including working as a project manager f
 
 [Liturgy in the Shadow of Trauma](https://www.mdpi.com/2077-1444/13/7/583)
 
-## Class Notes: 
-[class 01](class-01.md) |
-[class 02](class-02.md) |
-[class 03](class-03.md) |
-[class 04](class-04.md) |
-[class 05](class-05.md) |
-[class 06](class-06.md) |
-[class-07](class-07.md) |
-[class-08](class-08.md) |
-[class-09](class-09.md) |
-[class-10](class-10.md) |
+![photo of portland st john's bridge in the fall](header-image.jpg)
+
+# Table of Contents: 102 Introduction to Software Development
+[Class 101](class-01.md)   
+[Class 102](class-02.md)   
+[Class 103](class-03.md)   
+[Class 104](class-04.md)   
+[Class 105](class-05.md)   
+[Class 106](class-06.md)   
+[Class 107](class-07.md)   
+[Class 108](class-08.md)   
+[Class 109](class-09.md)   
+[Class 110](class-10.md)   
+
+# Table of Contents: 201 Fundamentals of Software Development
+[Class 201](class-201.md)  
+[Class 202](class-202.md)  
+[Class 203](class-203.md)  
+[Class 204](class-204.md)  
+[Class 205](class-205.md)  
+[Class 206](class-206.md)  
+[Class 207](class-207.md)  
+[Class 208](class-208.md)  
+[Class 209](class-209.md)  
+[Class 210](class-210.md)  
+[Class 211](class-211.md)  
+[Class 212](class-212.md)  
+[Class 213](class-213.md)  
+[Class 214](class-214.md)  
+[Class 215](class-215.md)  
+
+
+
+
 
 
