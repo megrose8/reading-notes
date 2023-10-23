@@ -1,4 +1,21 @@
 # Class 1 Readings:
+## Links:   
+*Readings*  
+[ How the Web Works ](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/How_the_Web_works)  
+[ Web Design and Process](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/What_will_your_website_look_like)  
+[ Java Script Basics](https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/JavaScript_basics)  
+[ Introduction to HTML ](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML)  
+[ Getting Started with HTML ](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started)  
+[Document and Website Structure](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Document_and_website_structure)  
+[ Metadata in HTML](https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/The_head_metadata_in_HTML)  
+[How to Design a Website](https://developer.mozilla.org/en-US/docs/Learn/Common_questions/Design_and_accessibility/Thinking_before_coding)  
+[Semantics](https://developer.mozilla.org/en-US/docs/Glossary/Semantics)  
+[What is JavaScript](https://developer.mozilla.org/en-US/docs/Learn/JavaScript/First_steps/What_is_JavaScript)  
+*Projects*  
+[Link to Prompt Engineering Page](prompt-engineering.md)
+
+## Things I want to Know More About
+How do independent contractors get hired to "increase SEO"? I've come across these people in B2B spaces. Are they software engineers? 
 
 ## Section 1: Getting Started
 1. Compose a short poem describing how HTTP sends data between computers.
@@ -69,4 +86,3 @@ What is JavaScript:
 2. How can you add JavaScript to an HTML Document?
     * JavaScript can be added using internal script tags or you can link a js file in the head of the HTML document.
 
-[Link to Prompt Engineering Page](prompt-engineering.md)
