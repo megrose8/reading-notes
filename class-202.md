@@ -8,7 +8,7 @@
 [Bookmarks and Review](https://cbea.ms/git-commit/)
 
 ## Things I want to Know More About
-thing thing
+
 
 ## Section One HTML: 
 1. Why is it important to use semantic elements in our HTML?  
