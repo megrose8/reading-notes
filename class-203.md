@@ -30,4 +30,14 @@ Once upon a time there lived a royal family in a great castle. They lived within
 * Border Box: The border box wraps the content *and* the padding. This border can be specified using `border` and related properties.
 * Margin Box: The margin box is the outermost part of the box model and wraps all the other boxs. This controls how the entire box is in relation to other boxes/elements on the page. Use the `margin` properties to specify this.
 ## Section 3: Learn JS
+Array: List like objects that can store multiple values in a single object 
+* Stored in vartiables and dealt with same as values, but can access singular values.
+* Within arrays we can mix data types.
+* To add items within an array use `push`  
+
+Example Array Code: 
+  `const cities = ["Manchester", "Liverpool"];`
+`cities.push("Cardiff")`;
+`console.log(cities)// would return "Manchester, Liverpool, Cardiff`  
+*Note multiple items can be added withibn a single push for example* `cities.push("item 1", "item 2")`
 
